@@ -1,0 +1,7 @@
+art.txt
+Created Tue Sep 13 10:26:43 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Art
+
